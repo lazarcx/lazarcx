@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm lazarcx and i am from Cerak, Serbia<br><br>- 🔭 I’m working as Admin And C.E.O Of SubHost<br>- 📚 I'm currently learning Java <br>- ⚡ In my free time I Do Developing And MotorCrossing</p>
 
 ###
 
