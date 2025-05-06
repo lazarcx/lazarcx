@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Fhtml5-logo-png%2Fhtml5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png&f=1&nofb=1&ipt=634cc17c76a48d7ba5ca7a0ba613e93955cde50147f1c21c54371bf842b5e025" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Freact%2Flogo-react-1024.png&f=1&nofb=1&ipt=559a4128a2618cd80861d42c1134ac9c7661d9ba470c6b082fa1b3e200a25de4" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
