@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F462-4623545_hosting-icon-pterodactyl-panel-logo-hd-png-download.png&f=1&nofb=1&ipt=b5139409d2ed206f599c584ab42f524af5fc50b66fe2f5e0cf9f283652516540" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F-NGHwBncyA68%2FUiMm_8b2ZUI%2FAAAAAAAAAnA%2F17OGXCKI4zE%2Fs1600%2FLogo%2BHTML5.JPG&f=1&nofb=1&ipt=58a6b6fc428100f1cfb4ad54c82e81832fdb00841fe4e81892f740258f4bbfd9" height="40" alt="ruby logo"  />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freelogovectors.net%2Fwp-content%2Fuploads%2F2016%2F12%2FHTML5.png&f=1&nofb=1&ipt=ea391a6a280d0291631718ef8ef453c3aa4442345d067183abac30f8c45731dc" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
