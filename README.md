@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.citypng.com%2Fpublic%2Fuploads%2Fpreview%2Fhd-python-logo-symbol-transparent-png-11639606208newcm5th7y.png&f=1&nofb=1&ipt=99297f83cae52f63a88bdc02bc2ba689f7f877e5ecd3ba6be5ddb768e16d5cba" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2020%2F09%2FJavaScript-Logo-2048x1280.png&f=1&nofb=1&ipt=7d0132ff2c2b5c5672be6c579994f3eed18cbe5afb075d7d52a8df9a6ebfbf72" height="40" alt="circleci logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
