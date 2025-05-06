@@ -37,7 +37,7 @@
 <div align="left">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F09%2FLinux-Logo-1996-present.png&f=1&nofb=1&ipt=6805f8e7e7faaa224f078ea106fc50e5be7c1fc174e4f86b319d71bcc714f7c7" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F462-4623545_hosting-icon-pterodactyl-panel-logo-hd-png-download.png&f=1&nofb=1&ipt=b5139409d2ed206f599c584ab42f524af5fc50b66fe2f5e0cf9f283652516540" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
