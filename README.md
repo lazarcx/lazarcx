@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freelogovectors.net%2Fwp-content%2Fuploads%2F2016%2F12%2FHTML5.png&f=1&nofb=1&ipt=ea391a6a280d0291631718ef8ef453c3aa4442345d067183abac30f8c45731dc" height="40" alt="ruby logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Fhtml5-logo-png%2Fhtml5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png&f=1&nofb=1&ipt=634cc17c76a48d7ba5ca7a0ba613e93955cde50147f1c21c54371bf842b5e025" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
