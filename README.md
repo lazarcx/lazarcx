@@ -1,31 +1,61 @@
-<h1 align="center">Hi 👋, I'm lazarcx</h1>
-<h3 align="center">A passionate front-end developer from Serbia</h3>
+<## Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lazarcx&label=Profile%20views&color=0e75b6&style=flat" alt="lazarcx" /> </p>
+I'm **lqzar**, a passionate developer based in **Favela, Brazil**. I love creating innovative solutions and exploring new technologies. Let's build something amazing together!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lazarcx" alt="lazarcx" /></a> </p>
+## About Me
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I'm currently working at **subhost**, where I focus on developing engaging projects and enhancing user experiences. With a strong foundation in programming, I'm always eager to learn new skills and tackle exciting challenges.
 
-- 👨‍💻 All of my projects are available at portofolio [soon](soon)
+## Skills & Technologies
 
-- ⚡ Fun fact **I think i am funny**
+htmx,html,css,windicss,react,linux,arch,debian,ubuntu,kali,mongodb
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## Top Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/lazarcx.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lazarcx.dev" height="30" width="40" /></a>
-<a href="https://discord.gg/svrsio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="svrsio" height="30" width="40" /></a>
-</p>
+- [Generator-Discord-Bot](https://github.com/lazarcx/Generator-Discord-Bot): New Made Discord Bot Soon going publish. **Stars:** 0 | **Language:** JavaScript | **Forks:** 0 | **Open Issues:** 0
+- [lazarcx](https://github.com/lazarcx/lazarcx): Hello World This is my profile. **Stars:** 0 | **Language:** N/A | **Forks:** 0 | **Open Issues:** 0
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazarcx&show_icons=true&locale=en&layout=compact" alt="lazarcx" /></p>
+Public Repositories: 2 | Followers: 0 | Following: 1 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazarcx&show_icons=true&locale=en" alt="lazarcx" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazarcx&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazarcx&" alt="lazarcx" /></p>
+## Recent Activity
+
+1. Created [Generator-Discord-Bot](https://github.com/lazarcx/Generator-Discord-Bot) - New Made Discord Bot Soon going publish. (May 04, 2025)
+2. Updated profile repository - Hello World This is my profile. (April 25, 2025)
+3. Created a new branch in [Generator-Discord-Bot](https://github.com/lazarcx/Generator-Discord-Bot). (May 04, 2025)
+4. Pushed to [lazarcx](https://github.com/lazarcx/lazarcx). (April 25, 2025)
+5. Created README.md in [Node](https://github.com/lazarcx/Node). (April 25, 2025)
+
+## Latest Blog Posts
+
+No recent blog posts available.
+
+## Connect with Me
+
+{}
+
+## ASCII Art
+
+```
+  _                              
+ | | __ _ ______ _ _ __ _____  __
+ | |/ _` |_  / _` | '__/ __\ \/ /
+ | | (_| |/ / (_| | | | (__ >  < 
+ |_|\__,_/___\__,_|_|  \___/_/\_\
+                                 
+```
+
+## Publications
+
+- [Publication Title](link-to-publication) - Journal/Conference, Year
+
+## Certifications
+
+- [Certification Name](link-to-certificate) - Issuing organization, Year
+
+## My Talks
+
+- [Talk Title](link-to-talk) - Brief description of the talk
