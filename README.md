@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Freact%2Flogo-react-1024.png&f=1&nofb=1&ipt=559a4128a2618cd80861d42c1134ac9c7661d9ba470c6b082fa1b3e200a25de4" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgss-technology.com%2Fwp-content%2Fuploads%2F2021%2F07%2F04.png&f=1&nofb=1&ipt=b97316fe5423d367301d0786b3aaf1752a74df91fe535bca6e9e265a75647477" height="40" alt="amazonwebservices logo"  />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.citypng.com%2Fpublic%2Fuploads%2Fpreview%2Fhd-python-logo-symbol-transparent-png-11639606208newcm5th7y.png&f=1&nofb=1&ipt=99297f83cae52f63a88bdc02bc2ba689f7f877e5ecd3ba6be5ddb768e16d5cba" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
   <img width="12" />
