@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm lazarcx and i am from Cerak, Serbia<br><br>- 🔭 I’m working as Admin And C.E.O Of SubHost<br>- 📚 I'm currently learning Java <br>- ⚡ In my free time I Do Developing And MotorCrossing</p>
+<p align="left">I'm lazarcx and i am from Belgrade, Cerak<br><br>- 🔭 I’m working as Admin And C.E.O Of SubHost<br>- 📚 I'm currently learning Java <br>- ⚡ In My Free Time i am Ultra mega skid</p>
 
 ###
 
