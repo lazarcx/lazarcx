@@ -1,62 +1,30 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lazarcx&label=Profile%20views&color=0e75b6&style=flat" alt="lazarcx" /> </p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lazarcx" alt="lazarcx" /></a> </p>
 
-###
+- 🔭 Learning C++ And PHP [Trying To Make RAT]((EDU ONLY))
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+- 👯 In Free Time I Am **Ultra Skid**
 
-###
+- 🤝 Working As C.E.O Of [SubHost](www.subhost.xyz)
 
-<h1 align="center">hey there 👋</h1>
+- 📫 How to reach me (Discord) **@svrsio**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazarcx&show_icons=true&locale=en&layout=compact" alt="lazarcx" /></p>
 
-<p align="left">I'm lazarcx and i am from Belgrade, Cerak<br><br>- 🔭 I’m working as Admin And C.E.O Of SubHost<br>- 📚 I'm currently learning Java <br>- ⚡ In My Free Time i am Ultra mega skid</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazarcx&show_icons=true&locale=en" alt="lazarcx" /></p>
 
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazarcx&" alt="lazarcx" /></p>
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F09%2FLinux-Logo-1996-present.png&f=1&nofb=1&ipt=6805f8e7e7faaa224f078ea106fc50e5be7c1fc174e4f86b319d71bcc714f7c7" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F462-4623545_hosting-icon-pterodactyl-panel-logo-hd-png-download.png&f=1&nofb=1&ipt=b5139409d2ed206f599c584ab42f524af5fc50b66fe2f5e0cf9f283652516540" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freelogovectors.net%2Fwp-content%2Fuploads%2F2016%2F12%2FHTML5.png&f=1&nofb=1&ipt=ea391a6a280d0291631718ef8ef453c3aa4442345d067183abac30f8c45731dc" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Fhtml5-logo-png%2Fhtml5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png&f=1&nofb=1&ipt=634cc17c76a48d7ba5ca7a0ba613e93955cde50147f1c21c54371bf842b5e025" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Freact%2Flogo-react-1024.png&f=1&nofb=1&ipt=559a4128a2618cd80861d42c1134ac9c7661d9ba470c6b082fa1b3e200a25de4" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.citypng.com%2Fpublic%2Fuploads%2Fpreview%2Fhd-python-logo-symbol-transparent-png-11639606208newcm5th7y.png&f=1&nofb=1&ipt=99297f83cae52f63a88bdc02bc2ba689f7f877e5ecd3ba6be5ddb768e16d5cba" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2020%2F09%2FJavaScript-Logo-2048x1280.png&f=1&nofb=1&ipt=7d0132ff2c2b5c5672be6c579994f3eed18cbe5afb075d7d52a8df9a6ebfbf72" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
