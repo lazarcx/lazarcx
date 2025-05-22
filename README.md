@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lazarcx" alt="lazarcx" /></a> </p>
 
-- 🔭 Learning C++ And PHP [Trying To Make RAT]((EDU ONLY))
+- 🔭 Learning C++ And PHP, Trying To Make RAT EDU ONLY
 
 - 👯 In Free Time I Am **Ultra Skid**
 
