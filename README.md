@@ -6,8 +6,6 @@
 
 - 🔭 Learning C++ And PHP, Trying To Make RAT EDU ONLY
 
-- 👯 In Free Time I Am **Ultra Skid**
-
 - 🤝 Working As C.E.O Of [SubHost](www.subhost.xyz)
 
 - 📫 How to reach me (Discord) **@svrsio**
